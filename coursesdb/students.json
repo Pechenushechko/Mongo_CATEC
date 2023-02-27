@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "63fc5e71c910f68dc7ed6a78"
+  },
+  "name": "Peter Parker",
+  "email": "SpiderMan@gmail.com",
+  "courses": [
+    "123456",
+    "345678"
+  ]
+},{
+  "_id": {
+    "$oid": "63fc5e9ac910f68dc7ed6a79"
+  },
+  "name": "Mary Jane",
+  "email": "MaryJane@gmail.com",
+  "courses": [
+    "123456",
+    "345678",
+    "789012"
+  ]
+},{
+  "_id": {
+    "$oid": "63fc5ebcc910f68dc7ed6a7a"
+  },
+  "name": "Ben Parker",
+  "email": "BenParker@gmail.com",
+  "courses": [
+    "123456"
+  ]
+}]

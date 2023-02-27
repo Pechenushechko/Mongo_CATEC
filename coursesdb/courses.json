@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "63fc5c5cc910f68dc7ed6a74"
+  },
+  "name": "Web Development",
+  "description": "Introducing to web development",
+  "instructor": "John Doe",
+  "students": [
+    "123456",
+    "789012",
+    "345678"
+  ]
+},{
+  "_id": {
+    "$oid": "63fc5c8ec910f68dc7ed6a75"
+  },
+  "name": "C# Programming",
+  "description": "Developing programms in C#",
+  "instructor": "John Doe",
+  "students": [
+    "123456",
+    "789012",
+    "345678"
+  ]
+},{
+  "_id": {
+    "$oid": "63fc5d38c910f68dc7ed6a76"
+  },
+  "name": "CGI",
+  "description": "Computer Generated imagery introducing",
+  "instructor": "Danial Skeep",
+  "students": [
+    "123456",
+    "345678"
+  ]
+}]
